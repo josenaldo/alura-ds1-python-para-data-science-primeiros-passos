@@ -3,3 +3,4 @@ mypy
 autopep8
 flake8
 pre-commit
+matplotlib
